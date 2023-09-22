@@ -1,0 +1,2 @@
+# Finbud
+Artificial budgeting System
